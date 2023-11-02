@@ -1,6 +1,5 @@
 # [Who is CillianDevOps?](www.cillian.website)
 
----
 - 👋 Hi, I’m @cilliandevops
 - 👀 I’m interested in coding、music、painting...
 - 🌱 I’m currently learning AI、devops、k8s、vue、go...
