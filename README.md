@@ -1,4 +1,4 @@
-# [Who is CillianDevOps?](www.cillian.website)
+# [CillianDevOps?](www.cillian.website)
 
 - 👋 Hi, I’m @cilliandevops
 - 👀 I’m interested in coding、music、painting...
@@ -7,7 +7,7 @@
 - 📫 How to reach me   cilliandevops@gmail.com ...
 - ❤️ My website www.cillian.website
 
-# 希里安是谁？
+# 希里安
 
 - 我是希里安，一名运维开发工程师
 - 爱编程、音乐和画画
