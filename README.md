@@ -26,7 +26,6 @@
     - wechat：cilliandevops
     - email：cilliandevops@gmail.com
 
-
 ## 我的开源项目:
 
 | 项目名称 |描述 |
@@ -45,3 +44,7 @@
   <img width="200" height="200" src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="cilliandevops" />
   <img width="200" height="200" src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="cilliandevops" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=cilliandevops&style=for-the-badge)
+
+
