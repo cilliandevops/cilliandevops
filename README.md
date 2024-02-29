@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @cilliandevops
 - 👀 I’m interested in coding、music、painting...
 - 🌱 I’m currently learning AI、devops、k8s、vue、go...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on soft
 - 📫 How to reach me   cilliandevops@gmail.com ...
 - ❤️ My website www.cillian.website
 
@@ -14,11 +14,16 @@
 | [Kops](https://github.com/cilliandevops/kops) | Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |
 | [aops](https://github.com/cilliandevops/aops) | vue+sprinboot-quickstart-demo |
 
-
+## Open Source Project I'm Contributing To:
+ Project Name                                              | Description                                                                                                 |
+|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| [v3-admin-vite](https://github.com/un-pany/v3-admin-vite) | ☀️ A vue3 admin template vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统 |
+| Studying hard                                             | Running...                                                                                                  |
 # 希里安
 
 - 我是希里安，一名运维开发工程师
 - 爱编程、音乐和画画
+- 正在努力贡献开源项目
 - 我主要负责k8s的开发与运维
 - 我的公众号是：希里安
 - 我的博客是：www.cillian.website
@@ -33,7 +38,13 @@
 | [Kops](https://github.com/cilliandevops/kops) | Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |
 | [aops](https://github.com/cilliandevops/aops) | vue+sprinboot-quickstart-demo |
 
+## 正在参与贡献的开源项目：
 
+## open source project I'm contributing to
+ 项目名称                                                      | 描述                                                                                                          |
+|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| [v3-admin-vite](https://github.com/un-pany/v3-admin-vite) | ☀️ A vue3 admin template vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统 |
+| ...                                                       | Running...                                                                                                  |
 
 ## 能力认证
 - [My Badges](https://www.credly.com/users/cilliandevops/badges)
