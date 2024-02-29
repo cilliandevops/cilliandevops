@@ -40,7 +40,6 @@
 
 ## 正在参与贡献的开源项目：
 
-## open source project I'm contributing to
  项目名称                                                      | 描述                                                                                                          |
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | [v3-admin-vite](https://github.com/un-pany/v3-admin-vite) | ☀️ A vue3 admin template vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统 |
