@@ -7,14 +7,14 @@
 - 📫 How to reach me   cilliandevops@gmail.com ...
 - ❤️ My website www.cillian.website
 
-## My Open Source Projects:
+## My Open Source Projects
 
 | Project Name | Description |
 | ------------ | ----------- |
 | [Kops](https://github.com/cilliandevops/kops) | Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |
 | [aops](https://github.com/cilliandevops/aops) | vue+sprinboot-quickstart-demo |
 
-## Open Source Project I'm Contributing To:
+## Open Source Project I'm Contributing To
  Project Name                                              | Description                                                                                                 |
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | [v3-admin-vite](https://github.com/un-pany/v3-admin-vite) | ☀️ A vue3 admin template vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统 |
@@ -31,14 +31,14 @@
     - wechat：cilliandevops
     - email：cilliandevops@gmail.com
 
-## 我的开源项目:
+## 我的开源项目
 
 | 项目名称 |描述 |
 | ------------ | ----------- |
 | [Kops](https://github.com/cilliandevops/kops) | Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |
 | [aops](https://github.com/cilliandevops/aops) | vue+sprinboot-quickstart-demo |
 
-## 正在参与贡献的开源项目：
+## 正在参与贡献的开源项目
 
  项目名称                                                      | 描述                                                                                                          |
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
