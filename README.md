@@ -11,7 +11,7 @@
 
 | Project Name | Description |
 | ------------ | ----------- |
-| [kops](https://github.com/cilliandevops/kops) | kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |
+| [kopsAdmin](https://github.com/cilliandevops/kopsAdmin) | kopsAdmin is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |
 
 ## Open Source Project I'm Contributing To
  Project Name                                              | Description                                                                                                 |
@@ -34,7 +34,7 @@
 
 | 项目名称 |描述 |
 | ------------ | ----------- |
-| [kops](https://github.com/cilliandevops/kops) | kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |
+| [kopsAdmin](https://github.com/cilliandevops/kops) | kopsAdmin is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |
 
 ## 正在参与贡献的开源项目
 
